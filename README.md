@@ -1,5 +1,5 @@
 ### Hi, I'm Duahau1 :watermelon: 
-![1] (https://giphy.com/gifs/ES4Vcv8zWfIt2/html5) 
+![1] (https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif) 
 
 
 <!--
