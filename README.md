@@ -1,7 +1,7 @@
 ### Hi, I'm Duahau1 :watermelon: 
 ![1] (https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif) 
 
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <!--
 **Duahau1/Duahau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
