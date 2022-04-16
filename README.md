@@ -3,6 +3,7 @@
 
 |![Cat](https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif) |![Watermelon](https://media.giphy.com/media/l56r3x5ZRZ2T7fs4tu/giphy.gif) |
 | --- | --- |
+<a href="https://app.daily.dev/duahau1"><img src="https://api.daily.dev/devcards/29e0dc0ee4c046af99d161204986eff0.png?r=bww" width="400" alt="duahau1's Dev Card"/></a>
 <!--
 **Duahau1/Duahau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
