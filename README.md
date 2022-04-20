@@ -1,6 +1,6 @@
 ### Hi, I'm Duahau1 :watermelon:
 ⚡ Few Things About Me
-<a href="https://app.daily.dev/duahau1"><img src="https://api.daily.dev/devcards/29e0dc0ee4c046af99d161204986eff0.png?r=bww" width="400" alt="duahau1's Dev Card"/></a>
+<a href="https://app.daily.dev/duahau1"><img src="https://api.daily.dev/devcards/29e0dc0ee4c046af99d161204986eff0.png?r=8se" width="400" alt="duahau1's Dev Card"/></a>
 |![Cat](https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif) |![Watermelon](https://media.giphy.com/media/l56r3x5ZRZ2T7fs4tu/giphy.gif) |
 | --- | --- |
 
